@@ -1,0 +1,11 @@
+{
+    "guilds":{
+        "0000": {
+            "guildname": "",
+            "guildid": "",
+            "Owner": "",
+            "memcount": "",
+            "allowed": "True"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "relays":{
+        0000: {
+            "descr": None,
+            "guild": None,
+            "guildid": None,
+            "chan": None,
+            "chanid": None,
+            "whid": None,
+            "whtoken": None,
+            "announce": false,
+            "active": true
+        }
+    }
+}

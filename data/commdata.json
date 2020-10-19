@@ -1,0 +1,19 @@
+{
+    "commands":{
+        0000: {
+            "command": None,
+            "parent": None,
+            "descr": None,
+            "guildid": None,
+            "author": None,
+            "function": None,
+            "response": None,
+            "images": Nones,
+            "Document": None,
+            "packages": None, 
+            "admin": true,
+            "global": false,
+            "active": false
+        }
+    }
+}
